@@ -3,6 +3,8 @@ import java.util.Scanner;
 class Weather{
 
     public static void main(String[] args){
+  
+        //Weather Report
 
         Scanner scanner = new Scanner(System.in);
 
